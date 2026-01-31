@@ -32,3 +32,8 @@ Malware means - malicious software
 
 -- check exe file for possible virus 
 https://www.virustotal.com/gui/home/upload
+
+
+
+
+DMZ demilitarized zone
