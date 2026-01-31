@@ -23,3 +23,12 @@ Modern Alternative:
 ip link set eth0 down
 ip link set eth0 address <new-mac>
 ip link set eth0 up
+
+
+Malware means - malicious software
+
+
+
+
+-- check exe file for possible virus 
+https://www.virustotal.com/gui/home/upload
